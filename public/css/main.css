@@ -1,3 +1,31 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #f8f9fa;
+}
+
+/* Profile image */
+.profile-img {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border: 4px solid #0d6efd;
+}
+
+/* Buttons */
+.btn-primary {
+  background-color: #0d6efd;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #0b5ed7;
+}
+
+/* Footer */
+footer small {
+  color: #555;
+}
+
 /* Skills Page Styling */
 
 .skill-card {
@@ -20,3 +48,10 @@
 .progress-bar {
   font-weight: 600;
 }
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #f8f9fa;
+}
+
+
